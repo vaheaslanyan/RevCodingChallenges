@@ -8,7 +8,6 @@ public class ArrayProductChecker {
 
         // Product of all elements in the arr
         int product = 1;
-
         for (int n : arr) product *= n;
 
         // Iterating through each element.
